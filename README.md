@@ -8,14 +8,14 @@ def greetings():
 ```
 </pre>
 
-<pre>
+``` html
 <pre>
 ``` python
 def greetings():
   print("Hello world!")
 ```
 </pre>
-</pre>
+```
 
 
 ``` python
