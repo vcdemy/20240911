@@ -16,7 +16,7 @@ def greetings():
 </pre>
 ````
 
-````
+`````
 ````
 <pre>
 ``` python
@@ -25,7 +25,7 @@ def greetings():
 ```
 </pre>
 ````
-````
+`````
 
 ``` python
 def greetings():
