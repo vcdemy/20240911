@@ -7,7 +7,6 @@ def greetings():
   print("Hello world!")
 ```
 </pre>
-
 ``` html
 <pre>
 ``` python
