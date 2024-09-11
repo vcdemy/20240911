@@ -8,6 +8,16 @@ def greetings():
 ```
 </pre>
 
+<pre>
+\<pre\>
+``` python
+def greetings():
+  print("Hello world!")
+```
+\</pre\>
+</pre>
+
+
 ``` python
 def greetings():
   print("Hello world!")
