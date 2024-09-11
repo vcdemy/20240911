@@ -49,4 +49,5 @@ def greetings():
 ## 數學方程式(Math Equation)
 
 $ E = mc^2 $
+
 $$ E = mc^2 $$
