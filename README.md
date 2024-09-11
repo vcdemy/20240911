@@ -48,6 +48,14 @@ def greetings():
 
 ## 數學方程式(Math Equation)
 
+### inline equation
 kdafldkajflkds  $` E = mc^2 `$ ajkfslafldskf
 
+### independent line equation
 $$ E = mc^2 $$
+
+## Links
+
+[Google](https://www.google.com)
+
+[KAS](https://kas.tw)
