@@ -2,7 +2,7 @@
 
 ## Motivation
 
-1. Promote Community Resource Sharing: By mapping local resources, the project can help residents, governments, and non-profits distribute and utilize community assets, such as healthcare centers, public facilities, and food resources, more effectively.
+1. **Promote Community Resource Sharing**: By mapping local resources, the project can help residents, governments, and non-profits distribute and utilize community assets, such as healthcare centers, public facilities, and food resources, more effectively.
 
 2. Address Natural Disasters and Climate Change: The map can highlight areas vulnerable to natural disasters like floods or typhoons, aiding communities in pre-planning evacuation routes and distributing emergency resources, thereby enhancing resilience.
 
