@@ -9,10 +9,10 @@ def greetings():
 </pre>
 ``` html
 <pre>
-``` python
+`````` python
 def greetings():
   print("Hello world!")
-```
+``````
 </pre>
 ```
 
