@@ -1,6 +1,13 @@
 # Markdown 使用簡介
 
 ## 怎麼對程式做 syntax highlighting？
+<pre>
+``` python
+def greetings():
+  print("Hello world!")
+```
+</pre>
+
 ``` python
 def greetings():
   print("Hello world!")
