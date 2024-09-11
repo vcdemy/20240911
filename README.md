@@ -64,5 +64,9 @@ $$ E = mc^2 $$
 
 ## Images
 
+``` markdown
+![說明文字](圖片連結)
+```
+
 ![Taylor Swift](https://www.hollywoodreporter.com/wp-content/uploads/2024/04/GettyImages-1986381340.jpg?w=1296&h=730&crop=1)
 
