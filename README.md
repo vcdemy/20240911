@@ -48,6 +48,6 @@ def greetings():
 
 ## 數學方程式(Math Equation)
 
-kdafldkajflkds  $ E = mc^2 $ ajkfslafldskf
+kdafldkajflkds  $` E = mc^2 `$ ajkfslafldskf
 
 $$ E = mc^2 $$
