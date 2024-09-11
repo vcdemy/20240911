@@ -13,3 +13,18 @@
 5. Support Education and STEM Learning: This project encourages young people and students to apply their knowledge in science, technology, engineering, and mathematics (STEM) to solve real community issues, sparking creativity and social responsibility.
 
 6. Improve Community Health and Safety: By mapping data such as crime rates, healthcare facility distribution, and environmental pollution, the project can promote improvements in public health and safety, reducing inequalities.
+
+## Methodology
+
+afdlkjad;fjalfk;jl;kfjal;fdja
+
+ad;fjaskdfj;alsf
+
+asd;ljfsd;fjsk;f
+
+
+## Experiment Results
+
+1. sdklajlfdj
+2. 2ljdkfsjf
+3. 33kjljsalkdf
