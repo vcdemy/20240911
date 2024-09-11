@@ -16,11 +16,11 @@
 
 ## Methodology
 
-afdlkjad;fjalfk;jl;kfjal;fdja
+* afdlkjad;fjalfk;jl;kfjal;fdja
 
-ad;fjaskdfj;alsf
+* ad;fjaskdfj;alsf
 
-asd;ljfsd;fjsk;f
+* asd;ljfsd;fjsk;f
 
 
 ## Experiment Results
