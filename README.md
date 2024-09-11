@@ -16,6 +16,16 @@ def greetings():
 </pre>
 ````
 
+````
+````
+<pre>
+``` python
+def greetings():
+  print("Hello world!")
+```
+</pre>
+````
+````
 
 ``` python
 def greetings():
